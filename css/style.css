@@ -1,0 +1,36 @@
+body{
+  background: #7f8c8d;
+}
+button{
+  
+}
+h1 {
+  text-align: center;
+  margin-top: 10vh;
+}
+main{
+  border: 5px solid #f00;
+  border-radius: 10px;
+  width: 36vw;
+  height: 36vw;
+  margin: 10vh auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+p{
+  text-align: center;
+  box-shadow: 0 0 5px black;
+}
+p:hover{
+  color: red;
+  font-size: 2rem;
+}
+.box{
+  width: 12vw;
+  height: 12vw;
+  box-shadow: 0 0 5px black;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
